@@ -1,0 +1,18 @@
+body{
+    background-color: deepskyblue;
+}
+.fondoMenu{
+    background-color: black;
+}
+.fixed-top2{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 2000;
+}
+
+.tituloPrincipal{
+    text-align: center;
+
+}
